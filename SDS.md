@@ -1,7 +1,6 @@
 # 🧭 System Description Specification (SDS)
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
 Hópur 10 ~ Dagbjört Freyja Reynisdóttir og Sigurður Kjartansson
 
 ## Heiti kerfis
