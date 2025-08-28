@@ -21,3 +21,6 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 
 ## Tenging við SRS
 - Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
+
+## Verkaskipting
+- Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50
