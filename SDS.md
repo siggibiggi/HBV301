@@ -4,11 +4,10 @@
 Hópur 10 ~ Dagbjört Freyja Reynisdóttir og Sigurður Kjartansson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+
 Húa
 
 ## Hvað er kerfið?
-Stutt, ein-málsgreina lýsing á því **hvað kerfið er** og **fyrir hvern** það er.
 
 Kerfið er stafrænn samskiptavettvangur fyrir nemendur og kennara í Háskóla Íslands sem sameinar spjall, hópastarf og sameiginlega vinnu í skjölum á einum stað til að auðvelda samskipti, bæta yfirsýn og styðja árangursríka hópavinnu.
 
