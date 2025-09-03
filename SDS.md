@@ -18,13 +18,26 @@ Auðvelda samskipti milli kennara og samnemendur.
 
 ## Afmörkun (umfang viku 2)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
+
+- Samskipti milli kennara og nemenda.
+- Hópastarf: stofna hópa og hópspjall.
+- Sameiginleg vinna í skjölum. (Word, PowerPoint, Excel)
+- Verkefnaskil innan kerfisins.
+
 **Utan scope:** Hvað kerfið nær **ekki** yfir núna (til að halda fókus).
+
+- Einkunnagjöf.
+- Samskipti utan námskeiða.
 
 ## Ytri tenging 
 Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við síðar.
+
+- Ugla
+- Office 365 / OneDrive
+- Team/Zoom
 
 ## Tenging við SRS
 - Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
 
 ## Verkaskipting
-- Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50
+- Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50. Við byrjuðum að vinna saman til að vera með sömu yfirsýn og markmið og unnum svo smá ein þegar við vissum hvað við vörum að gera.
