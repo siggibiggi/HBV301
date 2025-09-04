@@ -41,3 +41,9 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 
 ## Verkaskipting
 - Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50. Við byrjuðum að vinna saman til að vera með sömu yfirsýn og markmið og unnum svo smá ein þegar við vissum hvað við vörum að gera.
+
+## Ígrundun 
+- Í lok verkefnis gerið endurmat á verkefninu: 
+    ### Hvað gekk vel í verkefninu 
+
+    ### Hvað má bæta næst
