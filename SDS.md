@@ -40,10 +40,14 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 - Sjá nánari kröfuskipan í `SRS.md` (viðskiptakröfur, fídusar, notendakröfur o.s.frv.).
 
 ## Verkaskipting
-- Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50. Við byrjuðum að vinna saman til að vera með sömu yfirsýn og markmið og unnum svo smá ein þegar við vissum hvað við vörum að gera.
+- Víst að það voru sléttar tölur fyrir flestar kröfurnar, skiptu við bara 50/50. Við byrjuðum að vinna saman til að vera með sömu yfirsýn og markmið og unnum svo smá ein þegar við vissum hvað við vorum að gera.
 
 ## Ígrundun 
 - Í lok verkefnis gerið endurmat á verkefninu: 
-    ### Hvað gekk vel í verkefninu 
+    ### Hvað gekk vel í verkefninu
+  
+  - Unnum vel saman og góð samskipti á milli okkar.
 
     ### Hvað má bæta næst
+    
+  - Betri undirbúningur
