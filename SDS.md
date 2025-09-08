@@ -50,4 +50,4 @@ Nefnið hugsanleg ytri kerfi eða þjónustur sem kerfið gæti talað við sí�
 
     ### Hvað má bæta næst
     
-  - Betri undirbúningur
+  - Mætti vera aðeins betri undirbúningur næst.
