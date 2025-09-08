@@ -55,10 +55,10 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 |-----|--------|-------|-------|
 | UR1 | breyta comments | F1 | [#43](../../issues/43) |
 | UR2 | Opt out | F1 | [#29](../../issues/29) |
-| UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
-| UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
-| UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
-| UR6 | [Notendakrafa 6] | F3 | [#23](../../issues/23) |
+| UR3 | Vinna samtímis | F2 | [#37](../../issues/37) |
+| UR4 | Deila skjá | F2 | [#18](../../issues/18) |
+| UR5 | Notandi hópsímtal | F3 | [#17](../../issues/17) |
+| UR6 | Engin ytri forrit | F3 | [#5](../../issues/5) |
 
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
@@ -71,7 +71,7 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 | FR6 | Sýnilegar breytingar | UR2 | [#40](../../issues/40) |
 | FR7 | Sjá virka nemendur í skjölum | UR3 | [#39](../../issues/39) |
 | FR8 | Vistun skjala | UR3 | [#38](../../issues/38) |
-| FR9 | Vinna samtímis | UR3 | [#37](../../issues/37) |
+| FR9 | hefja símtal takki | UR3 | [#21](../../issues/21) |
 | FR10 | hópsmeðlimir geta ennþá séð | UR4 | [#33](../../issues/33) |
 | FR11 | opt in takki | UR4 | [#31](../../issues/31) |
 | FR12 | opt out takki | UR4 | [#35](../../issues/35) |
