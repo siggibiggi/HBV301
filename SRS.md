@@ -49,7 +49,7 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 | F1  | Samvinnuskjöl (Office/OneDrive) | [#36](../../issues/36) |
 | F2  | Comment frá kennara | [#28](../../issues/28) |
 | F3  | [Titill á fídusi] | [#17](../../issues/17) |
-
+s
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
