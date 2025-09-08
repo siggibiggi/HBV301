@@ -1,4 +1,4 @@
-# 📄 Software Requirements Specification (SRS)
+# 📄 Software Requirements Specification (SRS)s
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
