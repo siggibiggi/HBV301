@@ -116,4 +116,4 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 4.2 Samþykktir
 - Kennari: ____________________  
 - Nemandi: Sigurður Kjartansson
-- Nemandi: ____________________
+- Nemandi: Dagbjört Freyja Reynisdóttir
