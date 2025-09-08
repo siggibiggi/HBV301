@@ -46,15 +46,15 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.3 Fídusar (Features)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| F1  | [Titill á fídusi] | [#15](../../issues/15) |
-| F2  | [Titill á fídusi] | [#16](../../issues/16) |
+| F1  | Samvinnuskjöl (Office/OneDrive) | [#36](../../issues/36) |
+| F2  | Comment frá kennara | [#28](../../issues/28) |
 | F3  | [Titill á fídusi] | [#17](../../issues/17) |
 
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
-| UR1 | [Notendakrafa 1] | F1 | [#18](../../issues/18) |
-| UR2 | [Notendakrafa 2] | F1 | [#19](../../issues/19) |
+| UR1 | breyta comments | F1 | [#43](../../issues/43) |
+| UR2 | Opt out | F1 | [#29](../../issues/29) |
 | UR3 | [Notendakrafa 3] | F2 | [#20](../../issues/20) |
 | UR4 | [Notendakrafa 4] | F2 | [#21](../../issues/21) |
 | UR5 | [Notendakrafa 5] | F3 | [#22](../../issues/22) |
@@ -63,24 +63,23 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | [Virkni sem styður notendakröfu] | UR1 | [#24](../../issues/24) |
-| FR2 | [Önnur virkni] | UR1 | [#25](../../issues/25) |
-| FR3 | [Önnur virkni] | UR1 | [#26](../../issues/26) |
-| FR4 | [Virkni] | UR2 | [#27](../../issues/27) |
-| FR5 | [Virkni] | UR2 | [#28](../../issues/28) |
-| FR6 | [Virkni] | UR2 | [#29](../../issues/29) |
-| FR7 | [Virkni] | UR3 | [#30](../../issues/30) |
-| FR8 | [Virkni] | UR3 | [#31](../../issues/31) |
-| FR9 | [Virkni] | UR3 | [#32](../../issues/32) |
-| FR10 | [Virkni] | UR4 | [#33](../../issues/33) |
-| FR11 | [Virkni] | UR4 | [#34](../../issues/34) |
-| FR12 | [Virkni] | UR4 | [#35](../../issues/35) |
-| FR13 | [Virkni] | UR5 | [#36](../../issues/36) |
-| FR14 | [Virkni] | UR5 | [#37](../../issues/37) |
-| FR15 | [Virkni] | UR5 | [#38](../../issues/38) |
-| FR16 | [Virkni] | UR6 | [#39](../../issues/39) |
-| FR17 | [Virkni] | UR6 | [#40](../../issues/40) |
-| FR18 | [Virkni] | UR6 | [#41](../../issues/41) |
+| FR1 | edit timestamp | UR1 | [#46](../../issues/46) |
+| FR2 | delete takki | UR1 | [#45](../../issues/45) |
+| FR3 | edit takki | UR1 | [#44](../../issues/44) |
+| FR4 | Deiling skjala | UR2 | [#42](../../issues/42) |
+| FR5 | Auðkenning notenda | UR2 | [#41](../../issues/41) |
+| FR6 | Sýnilegar breytingar | UR2 | [#40](../../issues/40) |
+| FR7 | Sjá virka nemendur í skjölum | UR3 | [#39](../../issues/39) |
+| FR8 | Vistun skjala | UR3 | [#38](../../issues/38) |
+| FR9 | Vinna samtímis | UR3 | [#37](../../issues/37) |
+| FR10 | hópsmeðlimir geta ennþá séð | UR4 | [#33](../../issues/33) |
+| FR11 | opt in takki | UR4 | [#31](../../issues/31) |
+| FR12 | opt out takki | UR4 | [#35](../../issues/35) |
+| FR14 | ein deiling í einu | UR5 | [#26](../../issues/26) |
+| FR15 | hætta skjádeilingu takki | UR5 | [#25](../../issues/25) |
+| FR16 | deila skjá hnappur | UR6 | [#24](../../issues/24) |
+| FR17 | 100 notendur | UR6 | [#23](../../issues/40) |
+| FR18 | hópsímtal notification | UR6 | [#22](../../issues/22) |
 
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |
@@ -93,19 +92,19 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 | ID  | Titill | Issue |
 |-----|--------|-------|
 | QR1 | gott syncing, erfitt að eyða annarra manna vinnu | [#50](../../issues/50) |
-| QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
+| QR2 | Létt að bæta við nýjum docker | [#47](../../issues/47) |
 
 ### 3.8 Takmarkanir
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| C1 | [Takmörkun] | [#52](../../issues/52) |
-| C2 | [Takmörkun] | [#53](../../issues/53) |
+| C1 | íslenska og enska | [#34](../../issues/34) |
+| C2 | innan Uglu | [#32](../../issues/32) |
 
 ### 3.9 Ytri skil (Interfaces)
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| IF1 | [Ytra skil] | [#54](../../issues/54) |
-| IF2 | [Ytra skil] | [#55](../../issues/55) |
+| IF1 | Office 365 | [#49](../../issues/49) |
+| IF2 | Ugla | [#48](../../issues/48) |
 
 ---
 
