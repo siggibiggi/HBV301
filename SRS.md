@@ -35,21 +35,21 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.1 Viðskiptakröfur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BR1 | [Titill á viðskiptakröfu] | [#12](../../issues/12) |
-| BR2 | [Titill á viðskiptakröfu] | [#13](../../issues/13) |
+| BR1 | Gera léttara að gera hópavinnu saman | [#6](../../issues/6) |
+| BR2 | Auðvelda samskipti | [#2](../../issues/2) |
 
 ### 3.2 Kerfiskrafa
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| SR1 | [Titill á kerfiskröfu] | [#14](../../issues/14) |
+| SR1 | Ský og Microsoft Office | [#3](../../issues/3) |
 
 ### 3.3 Fídusar (Features)
 | ID  | Titill | Issue |
 |-----|--------|-------|
 | F1  | Samvinnuskjöl (Office/OneDrive) | [#36](../../issues/36) |
 | F2  | Comment frá kennara | [#28](../../issues/28) |
-| F3  | [Titill á fídusi] | [#17](../../issues/17) |
-s
+| F3  | Hópsímtöl | [#15](../../issues/15) |
+
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
@@ -84,8 +84,8 @@ s
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| BRG1 | [Viðskiptaregla] | [#42](../../issues/42) |
-| BRG2 | [Viðskiptaregla] | [#43](../../issues/43) |
+| BRG1 | Nemendur geta ekki messagað hvern sem er í HÍ | [#52](../../issues/52) |
+| BRG2 | Aðeins notendur með Uglu aðgang | [#51](../../issues/51) |
 
 
 ### 3.7 Gæðaeiginleikar
