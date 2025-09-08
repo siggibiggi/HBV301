@@ -53,12 +53,12 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.4 Notendakröfur
 | ID  | Titill | Fídus | Issue |
 |-----|--------|-------|-------|
-| UR1 | breyta comments | F1 | [#43](../../issues/43) |
-| UR2 | Opt out | F1 | [#29](../../issues/29) |
-| UR3 | Vinna samtímis | F2 | [#37](../../issues/37) |
-| UR4 | Deila skjá | F2 | [#18](../../issues/18) |
-| UR5 | Notandi hópsímtal | F3 | [#17](../../issues/17) |
-| UR6 | Engin ytri forrit | F3 | [#5](../../issues/5) |
+| UR1 | breyta comments | [Comment frá kennara](../../issues/28) | [#43](../../issues/43) |
+| UR2 | Opt out | [Comment frá kennara](../../issues/28) | [#29](../../issues/29) |
+| UR3 | Vinna samtímis | [Samvinnuskjöl (Office/OneDrive)](../../issues/36) | [#37](../../issues/37) |
+| UR4 | Deila skjá | [Hópsímtöl](../../issues/15) | [#18](../../issues/18) |
+| UR5 | Notandi hópsímtal | [Hópsímtöl](../../issues/15) | [#17](../../issues/17) |
+| UR6 | Engin ytri forrit | [Samvinnuskjöl (Office/OneDrive)](../../issues/36) | [#5](../../issues/5) |
 
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
