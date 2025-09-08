@@ -2,10 +2,10 @@
 
 ## 1. Inngangur
 ### 1.1 Tilgangur
-Stutt lýsing á tilgangi kerfisins og hverju það á að skila.
+Viðmót fyrir nemendur og kennara, til að tala saman og gera verkefni
 
 ### 1.2 Umfang
-Hvað á kerfið að gera? Afmörkun verkefnisins.
+Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið endurgjöf. Nemendur geta talað við aðra í sömu kúrsum
 
 ### 1.3 Skilgreiningar
 | Hugtak | Skýring |
