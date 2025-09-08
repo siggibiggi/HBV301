@@ -63,23 +63,24 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.5 Virknikröfur
 | ID  | Titill | Notendakrafa | Issue |
 |-----|--------|--------------|-------|
-| FR1 | edit timestamp | UR1 | [#46](../../issues/46) |
-| FR2 | delete takki | UR1 | [#45](../../issues/45) |
-| FR3 | edit takki | UR1 | [#44](../../issues/44) |
-| FR4 | Deiling skjala | UR2 | [#42](../../issues/42) |
-| FR5 | Auðkenning notenda | UR2 | [#41](../../issues/41) |
-| FR6 | Sýnilegar breytingar | UR2 | [#40](../../issues/40) |
-| FR7 | Sjá virka nemendur í skjölum | UR3 | [#39](../../issues/39) |
-| FR8 | Vistun skjala | UR3 | [#38](../../issues/38) |
-| FR9 | hefja símtal takki | UR3 | [#21](../../issues/21) |
-| FR10 | hópsmeðlimir geta ennþá séð | UR4 | [#33](../../issues/33) |
-| FR11 | opt in takki | UR4 | [#31](../../issues/31) |
-| FR12 | opt out takki | UR4 | [#35](../../issues/35) |
-| FR14 | ein deiling í einu | UR5 | [#26](../../issues/26) |
-| FR15 | hætta skjádeilingu takki | UR5 | [#25](../../issues/25) |
-| FR16 | deila skjá hnappur | UR6 | [#24](../../issues/24) |
-| FR17 | 100 notendur | UR6 | [#23](../../issues/40) |
-| FR18 | hópsímtal notification | UR6 | [#22](../../issues/22) |
+| FR1 | edit timestamp | [breyta comments](../../issues/43) | [#46](../../issues/46) |
+| FR2 | delete takki | [breyta comments](../../issues/43) | [#45](../../issues/45) |
+| FR3 | edit takki | [breyta comments](../../issues/43) | [#44](../../issues/44) |
+| FR4 | Deiling skjala | [Engin ytri forrit](../../issues/5) | [#42](../../issues/42) |
+| FR5 | Auðkenning notenda | [Vinna samtímis](../../issues/37) | [#41](../../issues/41) |
+| FR6 | Sýnilegar breytingar | [Vinna samtímis](../../issues/37) | [#40](../../issues/40) |
+| FR7 | Sjá virka nemendur í skjölum | [Vinna samtímis](../../issues/37) | [#39](../../issues/39) |
+| FR8 | Vistun skjala | [Engin ytri forrit](../../issues/5) | [#38](../../issues/38) |
+| FR9 | hefja símtal takki | [Notandi hópsímtal](../../issues/17) | [#21](../../issues/21) |
+| FR10 | hópsmeðlimir geta ennþá séð | [Opt out](../../issues/29)  | [#33](../../issues/33) |
+| FR11 | opt in takki | [Opt out](../../issues/29) | [#31](../../issues/31) |
+| FR12 | opt out takki | [Opt out](../../issues/29) | [#35](../../issues/35) |
+| FR13 | Nýtt verkefni innan kerfisins | [Engin ytri forrit](../../issues/5) | [#4](../../issues/4) |
+| FR14 | ein deiling í einu | [Deila skjá](../../issues/18) | [#26](../../issues/26) |
+| FR15 | hætta skjádeilingu takki | [Deila skjá](../../issues/18) | [#25](../../issues/25) |
+| FR16 | deila skjá hnappur | [Deila skjá](../../issues/18) | [#24](../../issues/24) |
+| FR17 | 100 notendur | [Notandi hópsímtal](../../issues/17) | [#23](../../issues/40) |
+| FR18 | hópsímtal notification | [Notandi hópsímtal](../../issues/17) | [#22](../../issues/22) |
 
 ### 3.6 Viðskiptareglur
 | ID  | Titill | Issue |
