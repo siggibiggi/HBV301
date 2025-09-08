@@ -20,10 +20,13 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 
 ## 2. Almenn lýsing
 ### 2.1 Notendahópar
-- Lýsa helstu notendahópum kerfisins (t.d. notendur, stjórnendur).
+- Nemendur
+- Kennarar
+- Tæknideild
 
 ### 2.2 Viðskiptaávinningur
-- Hver er ávinningurinn fyrir fyrirtæki eða notendur?
+- Léttara fyrir nemendur að vinna saman, og að gera verkefni
+- Léttara fyrir kennara að gefa út verkefni og fara yfir þau
 
 ---
 
@@ -89,7 +92,7 @@ Nemendur geta gert verkefni án þriðja aðilla forrita, kennarar geta gefið e
 ### 3.7 Gæðaeiginleikar
 | ID  | Titill | Issue |
 |-----|--------|-------|
-| QR1 | [Gæðaeiginleiki] | [#50](../../issues/50) |
+| QR1 | gott syncing, erfitt að eyða annarra manna vinnu | [#50](../../issues/50) |
 | QR2 | [Gæðaeiginleiki] | [#51](../../issues/51) |
 
 ### 3.8 Takmarkanir
