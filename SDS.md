@@ -5,8 +5,7 @@ Hópur 10 ~ Dagbjört Freyja Reynisdóttir og Sigurður Kjartansson
 
 ## Heiti kerfis
 
-Húa
-
+Húa ~ Samskiptakerfi fyrir Kennara og nemendur í HÍ
 ## Hvað er kerfið?
 
 Kerfið er stafrænn samskiptavettvangur fyrir nemendur og kennara í Háskóla Íslands sem sameinar spjall, hópastarf og sameiginlega vinnu í skjölum á einum stað til að auðvelda samskipti, bæta yfirsýn og styðja árangursríka hópavinnu.
@@ -14,7 +13,7 @@ Kerfið er stafrænn samskiptavettvangur fyrir nemendur og kennara í Háskóla 
 ## Tilgangur
 Hvert er meginmarkmiðið með kerfinu? (t.d. einfalda ferli, bæta yfirsýn, stytta afgreiðslutíma)
 
-Auðvelda samskipti milli kennara og samnemendur.
+Markmiðið er að auðvelda samskipti milli kennara og nemendur með því að sameina verkefnaskjöl og samskipti í einu kerfi. Þetta mun spara tíma og bæta yfirsýn yfir námið.
 
 ## Afmörkun (umfang viku 2)
 **Innan scope:** Helstu atriði/verkefni sem kerfið á að geta gert.  
